@@ -18,3 +18,7 @@ body{
     justify-content: center;
     flex-direction: column;
 }
+
+.left-login > h1{
+    color: #77ffc0;
+}
