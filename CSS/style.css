@@ -58,3 +58,10 @@ body{
 .textfield >label{
     color: #ccff33
 }
+
+.textfield > input{
+    color: #ccff33;
+    width: 100%;
+    border: none;
+    border-radius: 15px;
+}
