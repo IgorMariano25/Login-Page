@@ -22,3 +22,10 @@ body{
 .left-login > h1{
     color: #77ffc0;
 }
+
+.rigth-login{
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
