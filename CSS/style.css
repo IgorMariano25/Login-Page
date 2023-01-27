@@ -41,3 +41,7 @@ body{
     border-radius: 20px;
     box-shadow: 0 0 50px #503295;
 }
+
+.card-login > h1, label{
+    color: #ccff33;
+}
