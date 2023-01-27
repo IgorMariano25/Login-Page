@@ -44,4 +44,6 @@ body{
 
 .card-login > h1, label{
     color: #ccff33;
+    font-weight: 800;
+    margin: 0;
 }
