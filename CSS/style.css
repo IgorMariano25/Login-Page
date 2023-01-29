@@ -58,8 +58,9 @@ body{
     margin: 10px 0px;
 }
 
-.textfield >label{
-    color: #ccff33
+.textfield > label{
+    color: #ccff33;
+    margin-bottom: 10px;
 }
 
 .textfield > input{
