@@ -109,3 +109,12 @@ body{
     transition-duration: 0.1s;
     box-shadow: 0px 0px 35px -8px #d8ff51;
 }
+
+.button-login:hover{
+    width: 95%;
+    padding: 12px;
+    border-radius: 30px;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 30px -10px #503295;
+    color:#503295;
+}
