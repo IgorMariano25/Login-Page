@@ -69,4 +69,9 @@ body{
     border: none;
     padding: 15px;
     border-radius: 15px;
+    background: #514869;
+    box-shadow: 0px 10px 40px #00000056;
+    font-size: 12pt;
+    outline: none;
+    box-sizing: border-box;
 }
