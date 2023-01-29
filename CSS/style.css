@@ -23,6 +23,7 @@ body{
 .left-login > h1{
     margin-bottom: 0px;
     color: #ccff33;
+    font-family: 'Share Tech Mono', monospace;
 }
 
 .rigth-login{
