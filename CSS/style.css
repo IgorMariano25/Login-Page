@@ -39,6 +39,7 @@ body{
     align-items: center;
     flex-direction: column;
     padding: 25px 50px;
+    margin-top: 125px;
     background: #2f2841;
     border-radius: 20px;
     box-shadow: 0 0 50px #503295;
