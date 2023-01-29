@@ -106,5 +106,6 @@ body{
     background: #ccff33;
     border: none;
     cursor: pointer;
-    box-shadow: 0px 0px 30px -10px #d8ff51;
+    transition-duration: 0.1s;
+    box-shadow: 0px 0px 35px -8px #d8ff51;
 }
