@@ -24,6 +24,7 @@ body{
 }
 
 .left-login > h1{
+    font-size: 1.6vw;
     margin-bottom: 0px;
     color: #ccff33;
     font-family: 'Share Tech Mono', monospace;
