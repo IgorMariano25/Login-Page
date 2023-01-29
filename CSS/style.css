@@ -89,4 +89,5 @@ body{
 
 .textfield > input::placeholder{
     color: #ffffff;
+    font-family: 'Share Tech Mono', monospace;
 }
