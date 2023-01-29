@@ -46,6 +46,7 @@ body{
 }
 
 .card-login > h1, label{
+    font-family: 'Share Tech Mono', monospace;
     color: #ccff33;
     font-weight: 800;
     margin: 0;
