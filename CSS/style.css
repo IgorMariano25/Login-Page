@@ -91,3 +91,20 @@ body{
     color: #ffffff;
     font-family: 'Share Tech Mono', monospace;
 }
+
+.button-login{
+    width: 100%;
+    padding: 10px 0px;
+    margin-top: 15px;
+    border-radius: 8px;
+    color: #503295;
+    font-weight: 800;
+    font-size: 15px;
+    outline: none;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    background: #ccff33;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0px 0px 30px -10px #d8ff51;
+}
