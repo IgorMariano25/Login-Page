@@ -26,6 +26,11 @@ body{
     font-family: 'Share Tech Mono', monospace;
 }
 
+#left-loging-image{
+    width: 35vw;
+    height: 50vh;
+   }
+
 .rigth-login{
     width: 50vw;
     height: 100vh;
